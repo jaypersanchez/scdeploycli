@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../blockcert_smartlauncher"
+		},
+		{
+			"path": "../BlockCerts_ICO"
+		},
+		{
+			"path": "../ink-smart-contract"
+		}
+	],
+	"settings": {}
+}
